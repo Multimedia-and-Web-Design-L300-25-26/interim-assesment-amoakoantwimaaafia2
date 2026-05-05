@@ -1,0 +1,18 @@
+{
+  "github.copilot.enable": {
+    "*": true
+  },
+  "github.copilot.editor.enableAutoCompletions": true,
+  "github.copilot.chat.enabled": true,
+
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+
+  "tailwindCSS.experimental.classRegex": [["className\\s*=\\s*\"([^\"]*)\"", 1]]
+}

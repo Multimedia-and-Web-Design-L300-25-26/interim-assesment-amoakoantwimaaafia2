@@ -1,0 +1,16 @@
+node_modules
+dist
+build
+.cache
+.turbo
+.vite
+coverage
+.env
+.env.*
+public
+*.log
+*.tgz
+yarn-error.log
+pnpm-debug.log
+/.idea
+/.vscode
